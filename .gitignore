@@ -46,8 +46,10 @@ Thumbs.db
 .idea/
 
 # 특정 결과 폴더 
-#results/
 output/
 data/
 dataset/
 results/
+
+# HTML map files
+*.html
