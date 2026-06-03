@@ -315,16 +315,16 @@ Yelp 데이터에서는 패스트푸드 관련 업종이 `Fast Food`, `Burgers`,
 ```
 notebooks/
 ├── PART1_restaurants/
-│   ├── 01_data_setup.ipynb       ← 데이터 준비 (나)
+│   ├── 01_data_setup.ipynb       ← 데이터 준비 (내 담당)
 │   ├── 02_dtm_tfidf.ipynb        ← DTM/TF-IDF  
 │   ├── 03_sentiment.ipynb        ← 감성점수 
-│   ├── 04_fpi.ipynb              ← FPI 산출 (타팀원->나 보완)
-│   ├── 05_regression.ipynb       ← 회귀분석 (타팀원->나 보완)
-│   ├── 06_text_analysis.ipynb    ← 텍스트 분석 (나)
-│   ├── 07_survival.ipynb         ← 생존 브랜드 (나)
-│   └── 08_fpi_map.ipynb          ← FPI 지도 (나)
+│   ├── 04_fpi.ipynb              ← FPI 산출 (타팀원->내가 보완)
+│   ├── 05_regression.ipynb       ← 회귀분석 (타팀원->내가 보완)
+│   ├── 06_text_analysis.ipynb    ← 텍스트 분석 (내 담당)
+│   ├── 07_survival.ipynb         ← 생존 브랜드 (내 담당)
+│   └── 08_fpi_map.ipynb          ← FPI 지도 (내 담당)
 │
-└── PART2_fastfood/               ← 업종 특화 심화 분석 (나)
+└── PART2_fastfood/               ← 업종 특화 심화 분석 (내 담당)
     ├── 01_data_prep.ipynb
     ├── 02_sentiment.ipynb
     ├── 03_fpi.ipynb
