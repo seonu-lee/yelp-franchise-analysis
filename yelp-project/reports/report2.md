@@ -159,7 +159,6 @@ yelp_business.csv (174,566개)  +  yelp_review.csv (5,261,668개)
 ## 4-2. FPI 공식 설계 근거
 
 ![FPI Formula](figures/fig2_fpi_formula.png)
-
 **[FPI 공식 구성 요소 다이어그램]**
 
 $$FPI_i = \sum_{j \in N(i,\,r)} \frac{stars_j \;\times\; \ln(review\_count_j+1) \;\times\; sentiment\_shifted_j}{(d_{ij}[\mathrm{km}] + 1)^2}$$
