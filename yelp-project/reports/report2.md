@@ -190,7 +190,7 @@ $$sentiment\_shifted = sentiment - \min(sentiment)$$
 ### 분석 방법
 3개 후보 도시(Las Vegas / Phoenix / Charlotte)를 업체 수, 리뷰 수, 상권 밀집도 기준으로 비교하였다.
 
-![City Comparison](figures/fig1_city_comparison.png)
+![City Comparison](../results/fig1_city_comparison.png)
 
 **[후보 도시 비교 차트 — Las Vegas / Phoenix / Charlotte 업체 수·리뷰 수·밀집도 비교]**
 
