@@ -51,7 +51,7 @@ data/
 dataset/
 results/
 result/
-figures/
+yelp-project/figures/
 
 # HTML map files
 *.html
