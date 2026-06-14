@@ -50,6 +50,8 @@ output/
 data/
 dataset/
 results/
+result/
+reports/
 
 # HTML map files
 *.html
