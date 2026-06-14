@@ -51,7 +51,7 @@ data/
 dataset/
 results/
 result/
-reports/
+figures/
 
 # HTML map files
 *.html
